@@ -84,8 +84,8 @@ class Contents extends Component {
                                 <TableCell align="center">{row.finish}</TableCell>
                                 <TableCell align="center">{row.state}</TableCell>
                                 <TableCell align="center">
-                                    <IconButton>
-                                            <InsertDriveFileIcon onClick={this.handleCLickOpen} />
+                                    <IconButton onClick={this.handleCLickOpen} >
+                                            <InsertDriveFileIcon />
                                     </IconButton>
                                 </TableCell>
                             </TableRow>
@@ -420,7 +420,7 @@ class Contents extends Component {
         );
     }
     handleCLickOpen = () => {
-       this.setState({
+        this.setState({
            open: true
        })
     }

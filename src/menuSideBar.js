@@ -13,13 +13,13 @@ const menu = [{
 },
 {
     menu: [{
-        to: "/aaa",
+        to: "/pj",
         icon: <PersonIcon />,
-        name: "Account User"
+        name: "Create Project"
     },{
-        to: "/aaa",
+        to: "/home",
         icon: <PeopleIcon />,
-        name: "Account User"
+        name: "Create Quotation"
     }],
     id: 1
 },{
