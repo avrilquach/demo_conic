@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/demo_conic/static/css/main.7ee42d0f.chunk.css",
+    "main.js": "/demo_conic/static/js/main.91a52a11.chunk.js",
+    "main.js.map": "/demo_conic/static/js/main.91a52a11.chunk.js.map",
+    "runtime-main.js": "/demo_conic/static/js/runtime-main.36388142.js",
+    "runtime-main.js.map": "/demo_conic/static/js/runtime-main.36388142.js.map",
+    "static/css/2.e4647e32.chunk.css": "/demo_conic/static/css/2.e4647e32.chunk.css",
+    "static/js/2.5c01709e.chunk.js": "/demo_conic/static/js/2.5c01709e.chunk.js",
+    "static/js/2.5c01709e.chunk.js.map": "/demo_conic/static/js/2.5c01709e.chunk.js.map",
+    "index.html": "/demo_conic/index.html",
+    "precache-manifest.6defe8e425791727dabd64a6e106d022.js": "/demo_conic/precache-manifest.6defe8e425791727dabd64a6e106d022.js",
+    "service-worker.js": "/demo_conic/service-worker.js",
+    "static/css/2.e4647e32.chunk.css.map": "/demo_conic/static/css/2.e4647e32.chunk.css.map",
+    "static/css/main.7ee42d0f.chunk.css.map": "/demo_conic/static/css/main.7ee42d0f.chunk.css.map",
+    "static/js/2.5c01709e.chunk.js.LICENSE.txt": "/demo_conic/static/js/2.5c01709e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/demo_conic/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36388142.js",
+    "static/css/2.e4647e32.chunk.css",
+    "static/js/2.5c01709e.chunk.js",
+    "static/css/main.7ee42d0f.chunk.css",
+    "static/js/main.91a52a11.chunk.js"
+  ]
+}
