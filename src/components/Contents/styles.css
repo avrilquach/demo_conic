@@ -1,0 +1,19 @@
+table tr:nth-child(odd) {
+    background-color: #E0E0E0;
+}
+table thead tr th {
+    background-color: #3D3A3A !important;
+    color: #fff !important;
+
+}
+table tr:nth-child(even), table tr th {
+    background-color: #fff;
+}
+table tr td, table tr th{
+    border: 1px solid #000 !important;
+}
+
+.MuiGrid-item, .MuiGrid-container {
+    display: flex;
+    align-items: center;
+}
